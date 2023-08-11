@@ -1,0 +1,27 @@
+.header_div{
+    background-color: white;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+body{
+    background-color: lightblue;
+}
+p{
+    font-family: 'roboto';
+    font-style: normal;
+    letter-spacing: 2px;
+    color: black;
+    font-weight: bold;
+}
+.copy_right_footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: white;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 3;
+}
